@@ -1,0 +1,39 @@
+*{
+padding:0;
+margin:0;
+box-sizing: border-box;
+}
+ body{
+    background-color: rgb(192, 175, 175);
+ }
+.container{
+    border:solid black 2px;
+}
+#header{
+    text-align: center;
+    background-color: rgb(254, 190, 71);
+}
+#menu{
+    background-color: rgb(169, 248, 248);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+}
+li{
+   margin-left: 2px;
+    display: inline;
+}
+#content{
+    background-color: pink;
+}
+#aside{
+    background-color: beige;
+}
+#footer{
+background-color: rgb(235, 143, 143);
+}
